@@ -3,7 +3,7 @@ Welcome to the "BookStore-MERN-Stack" repository! This repository serves as the 
 
 ## Key Features:
 
-### User Authentication: Secure user registration and login functionality.
+  ### User Authentication: Secure user registration and login functionality.
 ### Book Catalog: A comprehensive catalog of books, searchable and filterable by various criteria.
 ### Shopping Cart: A seamless shopping cart and checkout experience for customers.
 ### User Reviews: Allow users to leave reviews and ratings for books.
