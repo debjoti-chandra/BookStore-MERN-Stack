@@ -4,36 +4,36 @@ Welcome to the "BookStore-MERN-Stack" repository! This repository serves as the 
 ## Key Features:
 
 - User Authentication: Secure user registration and login functionality.
-### Book Catalog: A comprehensive catalog of books, searchable and filterable by various criteria.
-### Shopping Cart: A seamless shopping cart and checkout experience for customers.
-### User Reviews: Allow users to leave reviews and ratings for books.
-### Admin Dashboard: Streamlined admin controls for managing books, users, and orders.
-### Responsive Design: Ensuring a consistent and engaging experience across devices.
-### RESTful API: A well-structured RESTful API for efficient data communication.
-### Middleware: Utilization of Express.js middleware for handling requests and responses.
-### Real-time Updates: Implement real-time features using WebSockets or similar technologies.
-### Scalability: Designed for scalability to accommodate future growth.
-### Deployment: Configuration for easy deployment to platforms like Heroku or AWS.
+- Book Catalog: A comprehensive catalog of books, searchable and filterable by various criteria.
+- Shopping Cart: A seamless shopping cart and checkout experience for customers.
+- User Reviews: Allow users to leave reviews and ratings for books.
+- Admin Dashboard: Streamlined admin controls for managing books, users, and orders.
+- Responsive Design: Ensuring a consistent and engaging experience across devices.
+- RESTful API: A well-structured RESTful API for efficient data communication.
+- Middleware: Utilization of Express.js middleware for handling requests and responses.
+- Real-time Updates: Implement real-time features using WebSockets or similar technologies.
+- Scalability: Designed for scalability to accommodate future growth.
+- Deployment: Configuration for easy deployment to platforms like Heroku or AWS.
 
 ## How to Contribute:
 
 We welcome contributions from the open-source community to help improve and expand the functionality of our BookStore-MERN-Stack project. Here's how you can get involved:
 
-### Fork this Repository: Start by forking this repository to your GitHub account.
+- Fork this Repository: Start by forking this repository to your GitHub account.
 
-### Clone the Repository: Clone your forked repository to your local development environment.
+- Clone the Repository: Clone your forked repository to your local development environment.
 
-### Create Feature Branches: Create a new branch for each feature or bug fix you plan to work on.
+- Create Feature Branches: Create a new branch for each feature or bug fix you plan to work on.
 
-### Code and Test: Develop your feature, write tests (if applicable), and ensure it works as expected.
+- Code and Test: Develop your feature, write tests (if applicable), and ensure it works as expected.
 
-### Commit and Push: Commit your changes and push them to your forked repository.
+- Commit and Push: Commit your changes and push them to your forked repository.
 
-### Create Pull Requests: Submit a pull request from your feature branch to the main repository for review.
+- Create Pull Requests: Submit a pull request from your feature branch to the main repository for review.
 
-### Discuss and Review: Engage in discussions with maintainers and peers during the review process.
+- Discuss and Review: Engage in discussions with maintainers and peers during the review process.
 
-### Merge and Deploy: Once approved, your changes will be merged into the main branch and deployed as necessary.
+- Merge and Deploy: Once approved, your changes will be merged into the main branch and deployed as necessary.
 
 ## Getting Started:
 
